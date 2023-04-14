@@ -1,2 +1,2 @@
-# spring-boot-microservice-with-eureka
-spring-boot-microservice-with-eureka
+# spring-boot-mongo-webshop-microservices
+spring-boot-mongo-webshop-microservices

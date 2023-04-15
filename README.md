@@ -1,4 +1,4 @@
-# spring-boot-mongo-webshop-microservices
+# spring-boot-eureka-webshop-microservices
 ## Running applications
 Run Eureka Server and check the dashboard http://localhost:8761/ . <br/>
 Run Stock Service. <br/>
